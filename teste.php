@@ -1,5 +1,9 @@
 <?php
-class Teste{  
+
+class Teste{
+   /**
+   Não faz nada de interesse
+   */
    function teste(){
        echo "ole";
    }
